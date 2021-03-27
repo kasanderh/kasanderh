@@ -4,10 +4,11 @@
 
 
 I love brewing *specialty coffee* :coffee:
-<br>Fun fact: I can solve the <a href="https://en.wikipedia.org/wiki/Rubik%27s_Cube">Rubik's Cube</a> in under 1 minute! 
 <br>I am always listening to **music** 🎧 ![Badge Spotify](https://img.shields.io/badge/-My%20Playlist-success?style=flat&logo=Spotify&logoColor=white&link=https://open.spotify.com/playlist/41n8B37CXJO7P3TS2sV9qI?si=YoTNoRJwTjqlaNgzoBPEPg)
 <br>
+<br>Fun fact: I can solve the <a href="https://en.wikipedia.org/wiki/Rubik%27s_Cube">Rubik's Cube</a> in under 1 minute! 
 <br>
+
 
 
 <!--
