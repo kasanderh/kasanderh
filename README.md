@@ -1,6 +1,6 @@
 # Hi there! I'm Kasander 👋
 
-[![LinkedIn Profile](https://img.shields.io/badge/kasanderh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kasander-hanssen) 
+[![LinkedIn Profile](https://img.shields.io/badge/kasanderhanssen-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kasander-hanssen) 
 
 
 I love brewing *specialty coffee* :coffee:
