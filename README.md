@@ -8,8 +8,15 @@ I love brewing *specialty coffee* :coffee:
 <br>
 <br>Fun fact: I can solve the <a href="https://en.wikipedia.org/wiki/Rubik%27s_Cube">Rubik's Cube</a> in under 1 minute! 
 <br>
+<br>
+## What I am good at:
+- Java
+- Kotlin
+- JavaFX
+- Android Studio
+- XML
 
-
+<br> I am currently creating a Coffee app for Android where I am combining my love for coffee with my interest of programming. 📱 + ☕ = 👍
 
 <!--
 **kasanderh/kasanderh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
