@@ -17,7 +17,7 @@
 - Android Studio
 - XML
 
-#### I'm currently creating a Coffee app for Android where I am combining my love for coffee with my interest of programming! 📱 + ☕ = 👍
+#### I'm currently creating a Coffee app for Android where I´m combining my love for coffee with my interest of programming! 📱 + ☕ = 👍
 
 <!--
 **kasanderh/kasanderh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
