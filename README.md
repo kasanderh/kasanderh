@@ -2,6 +2,7 @@
 
 [![LinkedIn Profile](https://img.shields.io/badge/kasanderhanssen-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kasander-hanssen) 
 
+<br>I am an Android Developer who has deep knowledge of Java. I love learning new features, frameworks, languages and best practices to optimize my app builds. 
 
 I love brewing *specialty coffee* :coffee:
 <br>I am always listening to **music** 🎧 [![Badge Spotify](https://img.shields.io/badge/-My%20Playlist-success?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/playlist/41n8B37CXJO7P3TS2sV9qI?si=YoTNoRJwTjqlaNgzoBPEPg)
